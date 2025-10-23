@@ -6,7 +6,7 @@ Trivia Quiz App
 
 This project is a starting point for a Flutter application.
 
-![CHEESE!](assets\images\phone example 1.png)
-![](assets\images\phone example 2.png)
-![](assets\images\phone example 3.png)
+![](assets/images/phone_example 1.png)
+![](assets/images/phone_example 2.png)
+![](assets/images/phone_example 3.png)
 
